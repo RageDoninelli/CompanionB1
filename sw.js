@@ -1,5 +1,5 @@
 const CACHE_PREFIX = 'viva-b1-companion-';
-const CACHE_NAME = CACHE_PREFIX + 'v1-unit-01';
+const CACHE_NAME = CACHE_PREFIX + 'v2-unit-01-brand-fix';
 const ASSETS = ["./", "./index.html", "./app.js", "./config.js", "./m01.js", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener('install', event => {

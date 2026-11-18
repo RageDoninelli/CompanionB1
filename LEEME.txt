@@ -1,0 +1,10 @@
+V.I.V.A. English B1 Companion — ENTREGA MÓDULO 01
+
+Subir todos los archivos de este ZIP a la raíz de un repositorio GitHub Pages para B1.
+JOIN CLASS integrado: https://meet.google.com/idq-hskc-jif
+El progreso se guarda localmente bajo viva-english-b1-companion-v1 y no se elimina con actualizaciones normales.
+Se conserva el diseño y motor de B2. El módulo 01 incluye actividades originales basadas en las seis páginas académicas compartidas.
+Los archivos m02.js a m16.js pueden añadirse posteriormente sin cambiar el motor.
+Las respuestas abiertas se guardan en el mismo dispositivo; no se envían automáticamente al docente.
+Offline: una vez que la app se haya cargado e instalado con conexión; Meet requiere Internet.
+Para nuevas versiones actualizar el nombre de caché en sw.js sin cambiar las claves de progreso.
